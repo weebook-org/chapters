@@ -1,3 +1,3 @@
-# Chapitres du livre
+# Contenu du livre
 
-- [Chapitre premier](https://github.com/weebook-org/chapters/blob/master/CHAPTER_1.md)
+Ce dépôt est destiné à contenir l'ensemble des branches / merges / pull-requests effectués dans le but de faire avancer le livre.
